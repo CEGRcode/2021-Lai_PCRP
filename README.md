@@ -1,6 +1,5 @@
 # A ChIP-exo screen of 887 PCRP transcription factor antibodies in human cells
 
-
 ## William K. M. Lai<sup>1,2</sup>, Luca Mariani<sup>3</sup>, Gerson Rothschild<sup>5</sup>, Edwin R. Smith<sup>6</sup>, Bryan J. Venters<sup>7</sup>, Thomas R. Blanda<sup>1</sup>, Prashant K. Kuntala<sup>1</sup>, Kylie Bocklund<sup>1</sup>, Joshua Mairose<sup>1</sup>, Sarah N Dweikat<sup>1</sup>, Katelyn Mistretta<sup>1</sup>, Matthew J. Rossi<sup>1</sup>, Daniela Jame<sup>1</sup>, James T. Anderson<sup>3</sup>, Sabrina K. Phanor<sup>3</sup>, Wanwei Zhang<sup>5</sup>, Zibo Zhao<sup>6</sup>, Avani P. Shah<sup>6</sup>, Katherine Novitzky<sup>7</sup>, Eileen McAnarney<sup>7</sup>, Michael-C. Keogh<sup>7*</sup>, Ali Shilatifard<sup>6*</sup>, Uttiya Basu<sup>5*</sup>, Martha L. Bulyk<sup>3,4*</sup>, B. Franklin Pugh<sup>1,2*</sup>
 
 1 Center for Eukaryotic Gene Regulation, Department of Biochemistry and Molecular Biology, The Pennsylvania State University, University Park, Pennsylvania 16802, USA
@@ -31,6 +30,7 @@
 
 
 ### [www.PCRPvalidation.org](http://www.PCRPvalidation.org/)
+### PMID: [34426512](https://pubmed.ncbi.nlm.nih.gov/34426512/)
 ### ChIP-exo GEO ID : [GSE151287](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE151287)
 ### ChIP-seq GEO ID : [GSE152144](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE152144)
 ### CUT&RUN GEO ID : [GSE151326](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE151326)
